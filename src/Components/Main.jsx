@@ -1,6 +1,6 @@
 import React from 'react'
 import Displayer from './Displayer'
-import Categories from './Categories'
+import Categories from './Catagories'
 import Products from './Products'
 import LatesArrival from './LatesArrival'
 

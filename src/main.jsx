@@ -4,16 +4,11 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 
 
-import Displayer from './assets/Components/Displayer'
-import Categories from './assets/Components/Categories'
-import LatesArrival from './assets/Components/LatesArrival'
-import Products from './assets/Components/Products'
-
-import ShopCatagories from './assets/Components/ShopCatagories'
-import DetailPage from './assets/Components/DetailPage'
-import CartFinalPage from './assets/Components/CartFinalPage'
-import YourCart from './assets/Components/YourCart'
-import Main from './assets/Components/Main'
+import ShopCatagories from './Components/ShopCatagories'
+import DetailPage from './Components/DetailPage'
+import CartFinalPage from './Components/CartFinalPage'
+import YourCart from './Components/YourCart'
+import Main from './Components/Main'
 import App from './App.jsx'
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
